@@ -1,10 +1,10 @@
-# 🌲 The Clan War (Klanların Savaşı) - İnteraktif Görsel Roman
+#  The Clan War (Klanların Savaşı) - İnteraktif Görsel Roman
 
 **The Clan War**, Büyük Kıtlık dönemiyle yüzleşen bir ormandaki güç mücadelelerini konu alan, oyuncu kararlarına dayalı ve çoklu sonlara (branching narrative) sahip stratejik bir görsel romandır. Gelişmiş değişken yönetimi, zaman sınırlı mekanikler ve etkileşimli bilmeceler ile geleneksel tıklama oyunlarının ötesine geçerek dinamik bir oyun deneyimi sunar.
 
 ---
 
-## ⚙️ Öne Çıkan Teknik Özellikler
+##  Öne Çıkan Teknik Özellikler
 
 Bu proje, temel hikaye anlatımının yanı sıra aşağıdaki programlama mantıklarını ve oyun mekaniklerini barındırır:
 
@@ -17,7 +17,7 @@ Bu proje, temel hikaye anlatımının yanı sıra aşağıdaki programlama mant�
 
 ---
 
-## 🐺 Klanlar ve Oynanabilir Gruplar
+##  Klanlar ve Oynanabilir Gruplar
 
 Oyuncu, ormanın kaderini belirlemek için 5 farklı gruptan birinin liderliğini üstlenir:
 
@@ -29,7 +29,7 @@ Oyuncu, ormanın kaderini belirlemek için 5 farklı gruptan birinin liderliğin
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 *   **Oyun Motoru:** Ren'Py Visual Novel Engine
 *   **Programlama Dili:** Python (Arka plan mantığı, karar ağaçları, veri tipleri ve UI için)
@@ -37,7 +37,7 @@ Oyuncu, ormanın kaderini belirlemek için 5 farklı gruptan birinin liderliğin
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 1. Bilgisayarınıza [Ren'Py](https://www.renpy.org/) oyun motorunu indirin ve kurun.
 2. İndirdiğiniz `The Clan War` proje klasörünü Ren'Py ana dizinine (veya projenin bulunduğu workspace klasörüne) taşıyın.
